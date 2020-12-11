@@ -16,7 +16,7 @@ Using
 
 .. code-block:: bash
 
-    $./backcoonect.sh YOUR_IP
+    $./backconnect.sh YOUR_IP
 
 
 Authors and contact info

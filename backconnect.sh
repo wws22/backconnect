@@ -7,7 +7,7 @@ HOST=$1 # OR XX.XX.XX.XX
 PORT=6666
 
 if [[ -z $HOST ]]; then
-    echo "USAGE: ./backcoonect.sh YOUR_IP"
+    echo "USAGE: ./backconnect.sh YOUR_IP"
     exit
 fi
 
