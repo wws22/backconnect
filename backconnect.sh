@@ -3,8 +3,8 @@
 # This is the small script to create back connect to your own host
 #
 
-HOST=$1 # OR XX.XX.XX.XX 
-PORT=6666
+HOST=$1 # OR XX.XX.XX.XX
+PORT=6789
 
 if [[ -z $HOST ]]; then
     echo "USAGE: ./backconnect.sh YOUR_IP"
